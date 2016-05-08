@@ -255,7 +255,7 @@ void resetFondo(){
 ```
 
 #### Blog de Avance
-[En esta liga se podrá encontrar un blog referente a todos los avances que se realizaron para la realización de este proyecto.](sumasorestas.weebly.com)
+[En esta liga se podrá encontrar un blog referente a todos los avances que se realizaron para la realización de este proyecto.](http://sumasorestas.weebly.com)
 
 #### Esquemas, circuitos y conexiones
 ![Arduino y Protoboard](http://i.imgur.com/g292dya.png)
@@ -263,5 +263,5 @@ void resetFondo(){
 
 Conclusiones
 -------------------
-[Esta sección de documentación se encuentra en el blog de avance.](sumasorestas.weebly.com)
+[Esta sección de documentación se encuentra en el blog de avance.](http://sumasorestas.weebly.com)
 
