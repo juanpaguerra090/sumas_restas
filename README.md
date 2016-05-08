@@ -261,9 +261,7 @@ void resetFondo(){
 ![Arduino y Protoboard](http://i.imgur.com/g292dya.png)
 -------------------
 
-Desarrollo & Bitácora
+Conclusiones
 -------------------
-####¿Qué conocimientos, técnicas y metodologías se aplican?
-#### Análisis Final
-#### Observaciones
-#### Conclusiones
+[Esta sección de documentación se encuentra en el blog de avance.](sumasorestas.weebly.com)
+
