@@ -8,7 +8,7 @@ Sumas o Restas
 Introducción
 -------------
 
-Sumas y Restas es un proyecto que, por medio de sensores, apoya el aprendizaje matemático de los niños. El objetivo de este dispositivo es que los usuarios sean capaces de distinguir entre sumas y restas. 
+*Sumas o Restas* es un proyecto que, por medio de sensores, apoya el aprendizaje matemático de los niños. El objetivo de este dispositivo es que los usuarios sean capaces de distinguir entre sumas y restas. 
 
 El dispositivo funciona en conjunto con *Processing* y *Arduino*. En la pantalla, el usuario verá operaciones matemáticas básicas sin signo. Es decir, el jugador tendrá que completar la operación poniendo el signo correspondiente.  Para colocar el signo de la operación, el usuario pasará un "carrito" sobre el carril correspondiente. Un carril es destinado a sumas, y el otro para restas.  
 
@@ -31,7 +31,7 @@ Desarrollo & Bitácora
 ``` java
 int pinLed1 = 2;
 int pinLed2 = 3;
-int pinLDR = 0;f
+int pinLDR = 0;
 int pinLDR2 = 1;
 int valorLDR = 0;
 int valorLDR2= 0;
